@@ -8,9 +8,8 @@
 
 ### 🚀 Projects
 
-* [🌐 [Portfolio Website](#)](http://127.0.0.1:5500/index.html)
-* 🖥️ [Landing Page](#)
-* 📱 [Web Project](#)
+* (http://127.0.0.1:5500/index.html)
+* http://127.0.0.1:5500/index.html
 
 ### 📫 Reach Me
 
