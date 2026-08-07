@@ -14,5 +14,5 @@
 
 ### 📫 Reach Me
 
-* **Email:** [your-email@example.com](https://iqraosmana@gmail.com)
-* **GitHub:** [@yourusername](https://iqraosman-design)
+* **Email:** (https://iqraosmana@gmail.com)
+* **GitHub:**(https://iqraosman-design)
